@@ -21,8 +21,8 @@ sqlite3 olympics.db < a6_olympics_queries.sql
 
 ## 🎓 Project Context
 
-Built as part of **CSC 106: Fundamentals of Computer Science II (Computers and
-Society)** at the University of Victoria (Spring 2024).
+Built as part of **CSC 106: The Practice of Computer Science** at the University of
+Victoria (Spring 2024).
 
 ## ⚠️ Academic Integrity Notice
 
